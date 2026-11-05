@@ -1,4 +1,4 @@
-# Olá, eu sou Enzo Martins 👋
+# Olá, eu sou o Enzo Martins 👋
 
 🇧🇷 Estudante de **Tecnologia da Informação** (4º período) na **UFRN / IMD**, com foco em **Inteligência Artificial**. Gosto de usar IA e automação para resolver problemas do dia a dia.
 
@@ -27,5 +27,6 @@
 
 ## 📫 Contato | Contact
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/enzo-martins-7666b7449/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzoeduardoml@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_enzomartinsf)

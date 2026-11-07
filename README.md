@@ -1,4 +1,4 @@
-# Olá, eu sou o Enzo Martins 👋
+# Olá, eu sou Enzo Martins 👋
 
 🇧🇷 Estudante de **Tecnologia da Informação** (4º período) na **UFRN / IMD**, com foco em **Inteligência Artificial**. Gosto de usar IA e automação para resolver problemas do dia a dia.
 
